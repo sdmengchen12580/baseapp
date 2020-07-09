@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colo_FFFFFF">#FFFFFF</color>
+    <color name="colo_666666">#666666</color>
+    <color name="colo_FAE79D">#FAE79D</color>
+    <color name="colo_FF5686">#FF5686</color>
+    <color name="colo_333333">#333333</color>
+    <color name="colo_F3F2EC">#F3F2EC</color>
+    <color name="colo_CAAB86">#CAAB86</color>
+    <color name="colo_FF9568">#FF9568</color>
+    <color name="colo_70_white">#B3FFFFFF</color>
+    <color name="colo_30_black">#4D000000</color>
+    <color name="colo_3061FF">#3061FF</color>
+    <color name="colo_A0EDFF">#A0EDFF</color>
+    <color name="colo_1ECAFF">#1ECAFF</color>
+    <color name="colo_8CEAFF">#8CEAFF</color>
+    <color name="colo_FF9C26">#FF9C26</color>
+    <color name="colo_999999">#999999</color>
+    <color name="colo_FFAD1E">#FFAD1E</color>
+    <color name="colo_FFE58C">#FFE58C</color>
+
+</resources>
